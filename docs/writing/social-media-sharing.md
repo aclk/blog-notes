@@ -3,7 +3,7 @@ title: Prettier link sharing with MkDocs
 hero: Sharing MkDocs pages using Open Graph Markup
 description: Sharing links to MkDocs pages using Open Graph Markup
 authors:
-    - Rohan Cragg
+    - Bunkei Ka
 date: 2020-04-01
 page_path: misc/
 og_image: media/ogp.png
@@ -76,7 +76,7 @@ description: Using Scoop (and other Package Managers) to configure my system
 hero: The 'Scoop' on my personal machine build...
 date: 2020-02-04
 authors:
-    - Rohan Cragg
+    - Bunkei Ka
 og_title: The 'Scoop' on my personal machine build...
 page_path: misc/
 og_image: media/scoop-update.png

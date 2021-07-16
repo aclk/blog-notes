@@ -4,7 +4,7 @@ description: Using Scoop (and other Package Managers) to configure my system
 hero: The 'Scoop' on my personal machine build...
 date: 2020-02-04
 authors:
-    - Rohan Cragg
+    - Bunkei Ka
 date: 2020-02-04
 og_title: The 'Scoop' on my personal machine build...
 page_path: misc/

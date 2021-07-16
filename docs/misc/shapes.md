@@ -4,7 +4,7 @@ description: Import Visio Stencil Shapes into Draw.io
 hero: How to import Visio Stencil Shapes into Draw.io
 date: 2020-22-04
 authors:
-    - Rohan Cragg
+    - Bunkei Ka
 og_title: Import Visio Stencil Shapes into Draw.io
 page_path: misc/
 og_image: media/shapes-ready.png

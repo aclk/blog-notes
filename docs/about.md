@@ -4,7 +4,7 @@ disqus: ''
 hero: Find out more about me (@aclk)
 description: Find out more about me (@aclk)
 authors:
-    - Rohan Cragg
+    - Bunkei Ka
 date: 2020-02-04
 og_image: https://stackexchange.com/users/flair/3688.png
 ---
@@ -17,7 +17,7 @@ og_image: https://stackexchange.com/users/flair/3688.png
 
 ## LinkedIn
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="aclk"><a class="LI-simple-link" href='https://uk.linkedin.com/in/aclk?trk=profile-badge'>Rohan Cragg</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="aclk"><a class="LI-simple-link" href='https://uk.linkedin.com/in/aclk?trk=profile-badge'>Bunkei Ka</a></div>
 
 [![LinkedIn Profile](media/linkedin-profile.png?raw=true)](https://www.linkedin.com/in/aclk/){:target="_blank"}
 

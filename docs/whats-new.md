@@ -3,7 +3,7 @@ title: What's New
 hero: A brain-dump of things I find on a daily basis...
 description: A brain-dump of things I find on a daily basis...
 authors:
-    - Rohan Cragg
+    - Bunkei Ka
 date: 2020-04-07
 og_image: https://zeplin.io/static/img/imgExportDesignsInOneClick.png
 og_image_type: image/png

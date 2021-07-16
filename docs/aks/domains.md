@@ -3,7 +3,7 @@ title: Clusters of Domains
 hero: Designing domains and DNS for AKS Clusters
 description: Designing domains and DNS for AKS Clusters
 authors:
-    - Rohan Cragg
+    - Bunkei Ka
 date: 2020-02-04
 page_path: aks/
 og_image: media/dns-zone-alias.png

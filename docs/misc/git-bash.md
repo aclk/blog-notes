@@ -4,7 +4,7 @@ hero: For when I need some Linux shell goodness on Windows...
 date: 2020-02-04
 description: Using Bash Shell on Windows
 authors:
-    - Rohan Cragg
+    - Bunkei Ka
 date: 2020-02-04
 page_path: misc/
 og_image: media/git-bash-vscode.png

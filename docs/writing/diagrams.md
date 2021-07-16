@@ -3,7 +3,7 @@ title: Technical Diagramming
 hero: What I've learned about Technical Diagramming
 description: What I've learned about Technical Diagramming
 authors:
-    - Rohan Cragg
+    - Bunkei Ka
 date: 2020-04-01
 page_path: writing/
 og_image: media/mermaid-in-markdown.png

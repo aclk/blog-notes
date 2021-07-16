@@ -4,7 +4,7 @@ description: My battle with PowerShell Modules and OneDrive folder backup
 hero: My battle with PowerShell Modules and OneDrive folder backup
 date: 2021-03-30
 authors:
-    - Rohan Cragg
+    - Bunkei Ka
 og_title: About PowerShell Module Paths
 og_description: My battle with PowerShell Modules and OneDrive folder backup
 page_path: misc/

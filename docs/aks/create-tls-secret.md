@@ -3,7 +3,7 @@ title: How to Create a TLS Secret
 hero: TLS Secret management in AKS
 description: How to Create a TLS Secret in AKS
 authors:
-    - Rohan Cragg
+    - Bunkei Ka
 date: 2020-02-04
 page_path: aks/
 og_image: media/cert-path.png

@@ -3,7 +3,7 @@ title: Miscellanous Notes
 hero: Miscellanous notes and links on tools and techniques that I want to remember
 description: Miscellanous notes and links on tools and techniques that I want to remember
 authors:
-    - Rohan Cragg
+    - Bunkei Ka
 date: 2020-02-04
 ---
 

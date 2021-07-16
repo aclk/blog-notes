@@ -4,7 +4,7 @@ description: Specs and tips for configuring a Development workstation in the Azu
 hero: How I build my workstations in the sky
 date: 2020-07-22
 authors:
-    - Rohan Cragg
+    - Bunkei Ka
 og_title: How I build my workstations in the sky
 page_path: misc/
 og_image: media/vm-size.png
