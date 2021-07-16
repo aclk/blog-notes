@@ -2,7 +2,7 @@
 title: Import Shapes into Draw.io
 description: Import Visio Stencil Shapes into Draw.io
 hero: How to import Visio Stencil Shapes into Draw.io
-date: 2020-22-04
+date: 2021-07-16
 authors:
     - Bunkei Ka
 og_title: Import Visio Stencil Shapes into Draw.io
@@ -16,11 +16,11 @@ When I need to draw technical diagrams for projects we're working on using Azure
 
 ![now diagrams.net](media/shapes-now-diagrams.png)
 
-After a quick search one I found was a Visio stencil for Azure architecture design and documentation. 
+After a quick search one I found was a Visio stencil for Azure architecture design and documentation.
 
 ## Importing Shapes from a Visio stencil
 
-Here's how 
+Here's how
 
 Download the zip file from Dave Summers' [Github Repository](https://github.com/David-Summers/Azure-Design):
 
