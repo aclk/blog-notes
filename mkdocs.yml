@@ -7,26 +7,26 @@ fb_appid: '0000000000000'
 
 # Page tree
 nav:
-  - Home: README.md
-  - About Me: about.md
-  - What's New: whats-new.md
-  - Tools & Techniques:
-    - A Dev VM in the sky: misc\cloud-dev-vms.md
-    - Import Shapes into Draw.io: misc\shapes.md
-    - Scoop & Co: misc\scoop.md
-    - Bash Shell on Windows: misc\git-bash.md
-    - About PowerShell Module Paths: misc\ps-module-paths.md
-    - Miscellanous Notes: misc\misc.md
-  - DevOps:
-    - DevOps for the Terrified: devops\devops-for-the-terrified.md
-    - Azure DevOps - Self-Hosted Build Agents: devops\azdo-self-hosted-build-agents.md
-    - VM Patching in DevTest Labs: compute\patching-devtestlabs.md
-  - Kubernetes:
-    - Clusters and Domains: aks\domains.md
-    - Create a TLS Secret: aks\create-tls-secret.md
-  - Writing:
-    - Prettier link sharing with MkDocs: writing\social-media-sharing.md
-    - Technical Diagramming: writing\diagrams.md
+  - 'Home': 'README.md'
+  - 'About Me': 'about.md'
+  - 'What''s New': 'whats-new.md'
+  - 'Tools & Techniques':
+    - 'A Dev VM in the sky': 'misc\cloud-dev-vms.md'
+    - 'Import Shapes into Draw.io': 'misc\shapes.md'
+    - 'Scoop & Co': 'misc\scoop.md'
+    - 'Bash Shell on Windows': 'misc\git-bash.md'
+    - 'About PowerShell Module Paths': 'misc\ps-module-paths.md'
+    - 'Miscellanous Notes': 'misc\misc.md'
+  - 'DevOps':
+    - 'DevOps for the Terrified': 'devops\devops-for-the-terrified.md'
+    - 'Azure DevOps - Self-Hosted Build Agents': 'devops\azdo-self-hosted-build-agents.md'
+    - 'VM Patching in DevTest Labs': 'compute\patching-devtestlabs.md'
+  - 'Kubernetes':
+    - 'Clusters and Domains': 'aks\domains.md'
+    - 'Create a TLS Secret': 'aks\create-tls-secret.md'
+  - 'Writing':
+    - 'Prettier link sharing with MkDocs': 'writing\social-media-sharing.md'
+    - 'Technical Diagramming': 'writing\diagrams.md'
 
 # Repository
 repo_name: 'aclk/notes'
