@@ -1,8 +1,8 @@
-# rohancragg's blog-notes repo-ho-ho
+# aclk's notes repo
 
-This repository contains source code for my MkDocs site hosted on [rohancragg.github.io](http://rohancragg.github.io)
+This repository contains source code for my MkDocs site hosted on [aclk.github.io](http://aclk.github.io)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rohancragg/blog-notes)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/aclk/notes)
 
 ## Built with MkDocs
 

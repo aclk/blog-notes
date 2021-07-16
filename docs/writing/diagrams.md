@@ -25,7 +25,7 @@ Since I don't have a licence for Visio I tend to use the popular drawing tool [d
 
     You can [deploy diagrams.net in a docker container](https://github.com/jgraph/docker-drawio) for secure diagramming in your company behind your firewall.
 
-If you're a user of **diagrams.net** / **draw.io** then have a look at my page on how to [Import Shapes into Draw.io](https://rohancragg.co.uk/misc/shapes/)
+If you're a user of **diagrams.net** / **draw.io** then have a look at my page on how to [Import Shapes into Draw.io](https://blog.sbux.cf/misc/shapes/)
 
 ## Diagrams-as-Code
 
@@ -125,7 +125,7 @@ classDiagram
       +int postalCode
       +String country
       -validate()
-      +outputAsLabel()  
+      +outputAsLabel()
     }
 ```
 

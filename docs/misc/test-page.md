@@ -50,7 +50,7 @@ Don't act so surprised, Your {~~Queen~>Highness~~}{>>@gsw sounds better<<}. You 
 
 `#!php-inline $a = array("foo" => 0, "bar" => 1);`
 
-## InlineHilite 
+## InlineHilite
 
 Here is some code: `#!py3 import pymdownx; pymdownx.__version__`.
 
@@ -70,13 +70,13 @@ The mock shebang will be treated like text here: ` #!js var test = 0; `.
 
 ### mentions
 
-GitHub: @github:facelessuser
+GitHub: @github:aclk
 
-GitLab: @gitlab:facelessuser
+GitLab: @gitlab:aclk
 
-BitBucket: @bitbucket:facelessuser
+BitBucket: @bitbucket:aclk
 
-Twitter: @twitter:rohancragg
+Twitter: @twitter:aqingo
 
 ### repo mentions
 
@@ -212,7 +212,7 @@ Tabbed fences
 === "C"
 
     ```C
-        #include 
+        #include
 
         int main(void) {
         printf("hello, world\n");

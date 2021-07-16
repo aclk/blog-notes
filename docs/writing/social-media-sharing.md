@@ -28,7 +28,7 @@ When you enter a URL the platform picks a layout but it selects the title, a des
     W3Schools describes a [META tag](https://www.w3schools.com/tags/tag_meta.asp) as follows:
 
     > Metadata is data (information) about data.
-    
+
     > The <meta> tag provides metadata about the HTML document. Metadata will not be displayed on the page, but will be machine parsable.
 
     > Meta elements are typically used to specify page description, keywords, author of the document, last modified, and other metadata.
@@ -63,7 +63,7 @@ Much of the control over how the Markdown format is converted into HTML using Mk
 {% endraw %}
 ```
 
-You can also see from the sample above that I'm referencing the `page.meta` object which is where I can get data specific to each page and use it to build the content of each meta tag. *You can see the full code for the template override file `main.html` [here](https://github.com/rohancragg/blog-notes/blob/master/theme/main.html).*
+You can also see from the sample above that I'm referencing the `page.meta` object which is where I can get data specific to each page and use it to build the content of each meta tag. *You can see the full code for the template override file `main.html` [here](https://github.com/aclk/notes/blob/master/theme/main.html).*
 
 ## Defining document meta-data
 
@@ -85,10 +85,10 @@ og_image: media/scoop-update.png
 The path to the image is then used in my template override to build a `<meta>` tag that looks like this
 
 ```html
-<meta property="og:image" content="http://rohancragg.co.uk/misc/media/scoop-update.png" />
+<meta property="og:image" content="http://blog.sbux.cf/misc/media/scoop-update.png" />
 ```
 ## Testing it out!
 
-To assist with testing the tags in your Markup, Facebook provide a [Sharing Debugger](https://developers.facebook.com/tools/debug/?q=https%3A%2F%2Frohancragg.co.uk%2Fmisc%2Fscoop%2F). Here you can see that it provides a preview of what link sharing will look like for any URL you provide it to test:
+To assist with testing the tags in your Markup, Facebook provide a [Sharing Debugger](https://developers.facebook.com/tools/debug/?q=https%3A%2F%2Fblog.sbux.cf%2Fmisc%2Fscoop%2F). Here you can see that it provides a preview of what link sharing will look like for any URL you provide it to test:
 
 ![Sharing Debugger - Link Preview](media/link-preview.png)

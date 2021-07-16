@@ -1,9 +1,9 @@
 # Project information
-site_name: What I learned today (@rohancragg)
-site_description: '@rohancragg''s Personal Tech Docs'
-site_author: 'Rohan Cragg'
-site_url: 'https://rohancragg.co.uk/'
-fb_appid: '245640346829400'
+site_name: What I learned today (@aclk)
+site_description: '@aclk''s Personal Tech Docs'
+site_author: 'Bunkei Ka'
+site_url: 'https://blog.sbux.cf/'
+fb_appid: '0000000000000'
 
 # Page tree
 nav:
@@ -29,8 +29,8 @@ nav:
     - Technical Diagramming: writing\diagrams.md
 
 # Repository
-repo_name: 'rohancragg/blog-notes'
-repo_url: 'https://github.com/rohancragg/blog-notes'
+repo_name: 'aclk/notes'
+repo_url: 'https://github.com/aclk/notes'
 
 # Copyright
 copyright: 'Copyright &copy; 2019 - 2020 Rohan Cragg'
@@ -65,18 +65,18 @@ extra:
   manifest: 'manifest.webmanifest'
   social:
     - icon: fontawesome/brands/linkedin
-      link: 'https://www.linkedin.com/in/rohancragg'
+      link: 'https://www.linkedin.com/in/aclk'
     - icon: fontawesome/brands/twitter
-      link: 'https://twitter.com/rohancragg'
+      link: 'https://twitter.com/aqingo'
     - icon: fontawesome/brands/github
-      link: 'https://github.com/rohancragg'
+      link: 'https://github.com/aclk'
     - icon: fontawesome/brands/facebook
-      link: 'https://fb.com/rohancragg'
+      link: 'https://fb.com/aqinge'
     - icon: fontawesome/brands/instagram
-      link: 'https://www.instagram.com/rohancragg/'
+      link: 'https://www.instagram.com/vk.he/'
     - icon: fontawesome/solid/terminal
-      link: 'https://asciinema.org/~rohancragg'
-  disqus: 'rohancragg'
+      link: 'https://asciinema.org/~aqing'
+  disqus: 'aclk'
   theme:
     icon:
       repo: fontawesome/brands/gitlab
@@ -142,8 +142,8 @@ markdown_extensions:
       social_url_shortener: true
       social_url_shorthand: true
       provider: github
-      user: rohancragg
-      repo: blog-notes
+      user: aclk
+      repo: notes
   - pymdownx.mark
   - pymdownx.progressbar
   - pymdownx.smartsymbols
