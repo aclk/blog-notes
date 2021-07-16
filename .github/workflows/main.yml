@@ -38,3 +38,12 @@ jobs:
       #    deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
       #    publish_dir: ./site
 
+      - name: Deploy docs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          CUSTOM_DOMAIN: blog.sbux.cf
+          CONFIG_FILE: mkdocs.yml
+          EXTRA_PACKAGES: build-base
+          # GITHUB_DOMAIN: github.myenterprise.com
